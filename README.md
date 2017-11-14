@@ -6,3 +6,5 @@ M (Monetary)表示客戶在最近一段時間內購買的金額。一般的分�
 * easyRFM 
 # 說明
 可以透過`easyRFM`的套件的方法`rfm_generate_data()`產生資料後加以整理分析，可參考**RFM_example.R**
+<iframe src="https://www.w3schools.com"></iframe>
+
